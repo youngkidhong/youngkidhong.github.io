@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Introduction</title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/publications/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/about/</guid>
+      <description>Welcome to Youngki&amp;rsquo;s website! I am a 6th year PhD student in social psychology at University of California, Santa Barbara. My research draws theories and methods from social psychology, cognitive and computational neuroscience, and artificial intelligence to understand psychological and neural bases stereotyping and prejudice. My dissertation research focuses on how group membership influences the way we encode, mentally represent, and evaluate faces of people who belong to our group (ingroup) vs.</description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/publications/lorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/publications/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

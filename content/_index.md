@@ -34,7 +34,7 @@ sections:
     id: papers
     content:
       title: Publications
-      page: publication/index.md
+      page: publication/_index.md
     design:
       css_class: light
       background:

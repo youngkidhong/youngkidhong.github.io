@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {{ partial "head.html" . }}
+    {{ partial "blox/_shared/head.html" . }}
+    <link rel="stylesheet" href="/css/scroll.css">
   </head>
-  <body>
-    {{ partial "header.html" . }}
+  <body class="{{ .Type }} {{ .Kind }}">
+    {{ partial "blox/_shared/header.html" . }}
 
     <main id="main">
-      {{ block "main" . }}
-      {{ end }}
+      {{ block "main" . }}{{ end }}
     </main>
 
-    {{ partial "footer.html" . }}
+    {{ partial "blox/_shared/footer.html" . }}
   </body>
 </html>

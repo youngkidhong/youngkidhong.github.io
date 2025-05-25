@@ -58,3 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+
+custom_css:
+  - css/scroll.css

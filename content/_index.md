@@ -37,7 +37,7 @@ sections:
       text: |
        **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism. *Journal of Experimental Psychology: General.*
        
-       **Hong, Y.**, & Freeman, J. B. (2024). Shifts in facial impression structures across group boundaries. *Social Psychological and Personality Science, 15*(6), 619–629. [PDF](files/spps.pdf)
+       **Hong, Y.**, & Freeman, J. B. (2024). Shifts in facial impression structures across group boundaries. *Social Psychological and Personality Science, 15*(6), 619–629. [PDF](uploads/spps.pdf)
 
     design:
       css_class: light

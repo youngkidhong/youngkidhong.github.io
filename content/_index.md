@@ -42,7 +42,7 @@ sections:
     design:
       css_class: light
       background:
-        color: Gainsboro
+        color: SeaShell
       view: citation
   - block: collection
     id: talks
@@ -80,7 +80,7 @@ sections:
     design:
       css_class: light
       background:
-        color: Gainsboro
+        color: SeaShell
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing

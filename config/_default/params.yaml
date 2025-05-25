@@ -61,3 +61,7 @@ features:
 
 custom_css:
   - css/scroll.css
+
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/scroll.css">

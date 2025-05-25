@@ -75,7 +75,6 @@ sections:
 
         **November 28, 2023**: The paper titled "Facial stereotypes of competence (not trustworthiness and dominance) most resemble facial stereotypes of group membership" was accepted for publication at Social Cognition!
 
-
     design:
       css_class: light
       background:

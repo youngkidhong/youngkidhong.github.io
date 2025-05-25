@@ -35,7 +35,6 @@ interests:
   - Social cognition
   - Person perception
   - Cognitive neuroscience
-  - Artificial intelligence
 
 education:
   - area: Postdoctoral training

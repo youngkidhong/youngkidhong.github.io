@@ -60,5 +60,5 @@ features:
     enable: false
 
 
-custom_js:
-  - js/smooth.js
+custom_css:
+  - css/custom.css

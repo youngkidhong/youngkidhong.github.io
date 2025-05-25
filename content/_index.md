@@ -30,20 +30,15 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
+  - block: page
     id: papers
     content:
       title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      page: publication/index.md
     design:
       css_class: light
       background:
-        color: WhiteSmoke
-      view: citation
+       color: WhiteSmoke
   - block: collection
     id: news
     content:

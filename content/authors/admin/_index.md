@@ -1,17 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Youngki Hong
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Youngki
+last_name: Hong
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -183,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Youngki Hong, Ph.D., is an Assistant Professor of Psychology and Neuroscience at the University of Colorado Boulder and the director of the Social Vision & Mind Lab. His research examines how people perceive others and process social information. Integrating theories and methods from social psychology, cognitive neuroscience, and machine learning, his work focuses on three core areas: (1) stereotyping and prejudice, (2) low-level visual processes in person perception, and (3) interventions to reduce bias and discrimination.

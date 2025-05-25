@@ -59,7 +59,7 @@ sections:
 
         IJzerman, H., Čolic, M. V., Hennecke, M., **Hong, Y.**, …, & Lindenberg, S. M. (2017). Does distance from the equator predict self-control? Lessons from the Human Penguin Project. *Behavioral and Brain Sciences, 40*. [[pdf](uploads/BBS.pdf)]
     design:
-      css_class: light
+      css_class: light space-y-6
       background:
        color: WhiteSmoke
   - block: collection

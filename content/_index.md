@@ -31,8 +31,9 @@ sections:
           position: center
           parallax: false
   - block: collection
+    id: papers
     content:
-      title: Publications
+      title: Recent Publications
       text: ""
       filters:
         folders:

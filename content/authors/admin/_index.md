@@ -32,9 +32,9 @@ profiles:
 
 
 interests:
-  - Social cognition
-  - Person perception
-  - Cognitive neuroscience
+  - Social Cognition
+  - Person Perception
+  - Cognitive Neuroscience
 
 education:
   - area: Postdoctoral training

@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: light
+  color: blue
 
 # SEO
 marketing:
@@ -34,12 +34,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "YOUNGKI HONG"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Youngki Hong. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

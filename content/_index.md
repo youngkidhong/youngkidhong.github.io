@@ -30,11 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: Pages
+  - block: markdown
     id: papers
     content:
       title: Publications
-      page: publication/_index.md
+      text: - **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism . *Journal of Experimental Psychology: General*.
+
     design:
       css_class: light
       background:

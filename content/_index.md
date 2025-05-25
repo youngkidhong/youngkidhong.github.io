@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: page
+  - block: markdown
     id: papers
     content:
       title: Publications

@@ -58,12 +58,8 @@ sections:
         IJzerman, H., Dalgar, I., Weissgerber, S. S., Vergara, R. C., Cairo, A. H, Čolic, M. V., Dursun, P., Frankowska, N., Hadi, R., Hall, C. J., **Hong, Y.**, …, & Lindenberg, S. M. (2018). The human penguin project: Complex social integration buffers human core temperatures from cold climates. *Collabra: Psychology, 4*(1), 37. [[pdf](uploads/HPP.pdf)]
 
         IJzerman, H., Čolic, M. V., Hennecke, M., **Hong, Y.**, …, & Lindenberg, S. M. (2017). Does distance from the equator predict self-control? Lessons from the Human Penguin Project. *Behavioral and Brain Sciences, 40*. [[pdf](uploads/BBS.pdf)]
-
-
-
     design:
       css_class: light
-      spacing: "1.25rem"
       background:
        color: WhiteSmoke
   - block: collection

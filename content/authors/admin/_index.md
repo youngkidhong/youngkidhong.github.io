@@ -2,12 +2,9 @@
 # Display name
 title: Youngki Hong
 
-
 # Full name (for SEO)
 first_name: Youngki
 last_name: Hong
-
-
 
 # Is this the primary user of the site?
 superuser: true

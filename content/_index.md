@@ -35,6 +35,7 @@ sections:
     content:
       title: Publications
       text: |
+        <div class="publication-paragraphs">
         **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism . *Journal of Experimental Psychology: General*.
 
         **Hong, Y.**, & Freeman, J. B. (2024). Shifts in facial impression structures across group boundaries. *Social Psychological and Personality Science, 15*(6), 619-629. [[pdf](uploads/spps.pdf)]
@@ -58,6 +59,7 @@ sections:
         IJzerman, H., Dalgar, I., Weissgerber, S. S., Vergara, R. C., Cairo, A. H, Čolic, M. V., Dursun, P., Frankowska, N., Hadi, R., Hall, C. J., **Hong, Y.**, …, & Lindenberg, S. M. (2018). The human penguin project: Complex social integration buffers human core temperatures from cold climates. *Collabra: Psychology, 4*(1), 37. [[pdf](uploads/HPP.pdf)]
 
         IJzerman, H., Čolic, M. V., Hennecke, M., **Hong, Y.**, …, & Lindenberg, S. M. (2017). Does distance from the equator predict self-control? Lessons from the Human Penguin Project. *Behavioral and Brain Sciences, 40*. [[pdf](uploads/BBS.pdf)]
+        </div>
     design:
       css_class: light space-y-6
       background:

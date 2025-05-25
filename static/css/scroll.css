@@ -1,3 +1,7 @@
 html {
   scroll-behavior: smooth;
 }
+
+.publication-paragraphs p {
+  margin-bottom: 1.25rem; /* Adjust this as needed */
+}

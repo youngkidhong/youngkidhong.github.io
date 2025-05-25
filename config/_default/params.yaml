@@ -61,4 +61,4 @@ features:
 
 
 custom_css:
-  - css/custom.css
+  - static/css/custom.css

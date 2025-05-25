@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: CU Gold */
+:root {
+  --color-primary-50: 255 250 235;     /* lightest tint */
+  --color-primary-100: 250 242 215;
+  --color-primary-200: 240 224 180;
+  --color-primary-300: 230 205 150;
+  --color-primary-400: 222 194 133;
+  --color-primary-500: 207 184 124;    /* base CU gold */
+  --color-primary-600: 187 165 110;
+  --color-primary-700: 165 145 90;
+  --color-primary-800: 145 125 75;
+  --color-primary-900: 120 100 60;     /* darkest shade */
+  --color-primary-950: 100 80 45;
+}

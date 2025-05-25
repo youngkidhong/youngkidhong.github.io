@@ -78,6 +78,9 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
+      css_class: light
+      background:
+        color: grey
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing

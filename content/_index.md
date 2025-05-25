@@ -35,7 +35,6 @@ sections:
     content:
       title: Publications
       text: |
-        <div class="publication-paragraphs">
         **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism . *Journal of Experimental Psychology: General*.
 
         **Hong, Y.**, & Freeman, J. B. (2024). Shifts in facial impression structures across group boundaries. *Social Psychological and Personality Science, 15*(6), 619-629. [[pdf](uploads/spps.pdf)]
@@ -59,34 +58,24 @@ sections:
         IJzerman, H., Dalgar, I., Weissgerber, S. S., Vergara, R. C., Cairo, A. H, Čolic, M. V., Dursun, P., Frankowska, N., Hadi, R., Hall, C. J., **Hong, Y.**, …, & Lindenberg, S. M. (2018). The human penguin project: Complex social integration buffers human core temperatures from cold climates. *Collabra: Psychology, 4*(1), 37. [[pdf](uploads/HPP.pdf)]
 
         IJzerman, H., Čolic, M. V., Hennecke, M., **Hong, Y.**, …, & Lindenberg, S. M. (2017). Does distance from the equator predict self-control? Lessons from the Human Penguin Project. *Behavioral and Brain Sciences, 40*. [[pdf](uploads/BBS.pdf)]
-        </div>
     design:
-      css_class: light space-y-6
+      css_class: light space-y-12
       background:
        color: WhiteSmoke
-  - block: collection
+  - block: markdown
     id: news
     content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      title: Recent news
+      text: |
+        August 15, 2025: Youngki starts his position as an assistant professor in the Department of Psychology and Neurscience at CU Boulder!
+
+        March 14, 2025: The paper titled "Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism " was accepted for publication at the Journal of Experimental Psychology: General!
+
+        March 14, 2024: The paper titled "Psychological effects of anti-Arab politics on American and Arab people’s views of each other" was accepted for publication at PLOS ONE!
+
+        November 28, 2023: The paper titled "Facial stereotypes of competence (not trustworthiness and dominance) most resemble facial stereotypes of group membership" was accepted for publication at Social Cognition!
+
+
     design:
       css_class: light
       background:

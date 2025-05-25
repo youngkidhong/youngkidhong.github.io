@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  theme_defualt: dark
-  mode: dark
+  theme_defualt: light
+  mode: light
   color: cu_gold
 
 # SEO

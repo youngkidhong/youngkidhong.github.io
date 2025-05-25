@@ -60,5 +60,5 @@ features:
     enable: false
 
 
-custom_css:
-  - static/css/custom.css
+custom_js:
+  - js/smooth-scroll.js

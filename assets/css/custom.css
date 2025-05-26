@@ -12,11 +12,16 @@ html {
 }
 
 .wider-publications-wrapper {
-  font-size: 1rem !important;       /* lock base font size */
-  line-height: 1.6 !important;      /* lock line height */
+  font-size: .7rem !important;       /* lock base font size */
+  line-height: 1 !important;      /* lock line height */
 }
 
 .wider-publications-wrapper .prose {
   font-size: inherit !important;    /* disable .prose scaling */
   line-height: inherit !important;
+}
+
+.navbar .color-mode-toggle,
+.navbar .mode-toggle {
+  display: none !important;
 }

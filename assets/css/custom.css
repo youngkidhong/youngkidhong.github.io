@@ -8,7 +8,7 @@ html {
 
 
 .wider-publications-wrapper .max-w-prose {
-  max-width: 1500px !important;
+  max-width: 1200px !important;
 }
 
 .wider-publications-wrapper {
@@ -24,4 +24,24 @@ html {
 /* Remove the last nav item, which is the light/dark mode toggle */
 nav > .ml-auto.flex.items-center > div:last-child {
   display: none !important;
+}
+
+/* Make the entire header bar black */
+#site-header {
+  background-color: #000 !important;
+}
+
+/* Make all nav links and text white */
+#site-header nav,
+#site-header a,
+#site-header .navbar-brand,
+#site-header .nav-item {
+  color: white !important;
+  fill: white !important;
+}
+
+/* Optional: make hover styles stay white */
+#site-header a:hover {
+  color: white !important;
+  opacity: 0.8;
 }

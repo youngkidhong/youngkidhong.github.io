@@ -58,7 +58,7 @@ footer .powered-by {
 .resume-biography .flex-none {
   width: 300px !important;
   margin-left: 0 !important;
-  margin-right: 3rem;
+  margin-right: 0 !important;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -75,8 +75,8 @@ footer .powered-by {
 
 /* Keep the avatar big, but not oversized */
 #profile .avatar-wrapper img {
-  width: 200px !important;
-  height: 200px !important;
+  width: 180px !important;
+  height: 180px !important;
   object-fit: cover;
   margin-bottom: 1rem;
 }

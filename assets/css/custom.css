@@ -55,28 +55,45 @@ footer .powered-by {
   padding-bottom: 0 !important;
 }
 
-/* Keep profile column fixed width and left-aligned */
+/* 1. Expand profile column */
 .resume-biography .flex-none {
-  width: 280px !important;
-  margin-right: 2rem;
+  width: 300px !important;        /* wider column */
   margin-left: 0 !important;
+  margin-right: 2rem;
   text-align: center;
-}
-
-/* Ensure avatar stays large and centered inside the column */
-#profile .avatar-wrapper img {
-  width: 200px !important;
-  height: 200px !important;
-}
-
-/* Center contents within the column */
-#profile {
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-align: center;
 }
 
-.resume-biography .flex-auto {
-  flex-shrink: 1;
+/* 2. Make image large but not too large */
+#profile .avatar-wrapper img {
+  width: 180px !important;
+  height: 180px !important;
+  margin-bottom: 1rem;
+}
+
+/* 3. Prevent name/title from overlapping with photo */
+#profile .portrait-title h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 0.75rem;
+}
+
+#profile .portrait-title h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+#profile .portrait-title + div {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* 4. Add spacing below icon row */
+.network-icon {
+  margin-top: 0.5rem;
+}shrink: 1;
 }

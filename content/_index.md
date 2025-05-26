@@ -38,7 +38,7 @@ sections:
       text: |
         <div class="publication-paragraphs">
 
-        **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism . *Journal of Experimental Psychology: General*.
+        **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism. *Journal of Experimental Psychology: General*.
 
         **Hong, Y.**, & Freeman, J. B. (2024). Shifts in facial impression structures across group boundaries. *Social Psychological and Personality Science, 15*(6), 619-629. [[pdf](uploads/spps.pdf)]
 
@@ -54,13 +54,13 @@ sections:
 
         Welborn, B. L., & **Hong, Y.**, & Ratner, K. G. (2020). Exposure to negative stereotypes influences the representations of monetary incentives in the nucleus accumbens. *Social Cognitive and Affective Neuroscience, 15*(3), 347-358. [[pdf](uploads/WelbornHong_SCAN2020.pdf)]
 
-        Hu, C., Yin, J., Lindenberg, S., Dalgar, I., Weissgerber, S. S., Vergara, R. C., Cairo, A. H, Čolic, M. V., Dursun, P., Frankowska, N., Hadi, R., Hall, C. J., **Hong, Y.**, …, & IJzerman, H. (2019). Data from the Human Penguin Project: A cross-national dataset testing principles from social thermoregulation theory. *Scientific Data, 6*(1), 32. [[pdf](uploads/scientificdata.pdf)]
+        Hu, C., ..., **Hong, Y.**, ..., & IJzerman, H. (2019). Data from the Human Penguin Project: A cross-national dataset testing principles from social thermoregulation theory. *Scientific Data, 6*(1), 32. [[pdf](uploads/scientificdata.pdf)]
 
         Ratner, K. G., Kaczmarek, A. R., & **Hong, Y.** (2018). Can over-the-counter pain medications influence our thoughts and emotions? *Policy Insights from the Behavioral and Brain Sciences, 5*(1), 82-89. [[pdf](uploads/RatnerKaczmarekHong2018.pdf)]
 
-        IJzerman, H., Dalgar, I., Weissgerber, S. S., Vergara, R. C., Cairo, A. H, Čolic, M. V., Dursun, P., Frankowska, N., Hadi, R., Hall, C. J., **Hong, Y.**, …, & Lindenberg, S. M. (2018). The human penguin project: Complex social integration buffers human core temperatures from cold climates. *Collabra: Psychology, 4*(1), 37. [[pdf](uploads/HPP.pdf)]
+        IJzerman, H., ..., **Hong, Y.**, ..., & Lindenberg, S. M. (2018). The human penguin project: Complex social integration buffers human core temperatures from cold climates. *Collabra: Psychology, 4*(1), 37. [[pdf](uploads/HPP.pdf)]
 
-        IJzerman, H., Čolic, M. V., Hennecke, M., **Hong, Y.**, …, & Lindenberg, S. M. (2017). Does distance from the equator predict self-control? Lessons from the Human Penguin Project. *Behavioral and Brain Sciences, 40*. [[pdf](uploads/BBS.pdf)]
+        IJzerman, H., ..., **Hong, Y.**, …, & Lindenberg, S. M. (2017). Does distance from the equator predict self-control? Lessons from the Human Penguin Project. *Behavioral and Brain Sciences, 40*. [[pdf](uploads/BBS.pdf)]
 
         </div>
     design:

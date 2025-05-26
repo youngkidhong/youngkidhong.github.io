@@ -36,7 +36,7 @@ sections:
     content:
       title: Publications
       text: |
-        <div class="publication-paragraphs">
+        <div class="publication-paragraphs wider-publications">
 
         **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism . *Journal of Experimental Psychology: General*.
 
@@ -72,7 +72,7 @@ sections:
     content:
       title: Recent news
       text: |
-        <div class="publication-paragraphs">
+        <div class="publication-paragraphs wider-publications">
       
         **August 15, 2025**: Youngki starts his position as an assistant professor in the Department of Psychology and Neurscience at CU Boulder!
 

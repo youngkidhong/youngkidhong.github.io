@@ -3,55 +3,11 @@ html {
 }
 
 .publication-paragraphs p {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
-
-
 
 
 .wider-publications-wrapper .max-w-prose {
-  max-width: 1200px !important;
+  max-width: 1500px !important;
 }
 
-/* Make the entire profile card larger */
-#profile {
-  font-size: 1.1rem;
-  line-height: 1.6;
-  padding: 1.5rem 1rem;
-}
-
-/* Increase spacing between child elements */
-#profile > * + * {
-  margin-top: 1rem;
-}
-
-/* Enlarge the avatar image */
-#profile .avatar-wrapper img {
-  width: 180px !important;
-  height: 180px !important;
-}
-
-/* Optional: make social icons bigger */
-#profile ul li svg {
-  width: 24px;
-  height: 24px;
-}
-
-#profile .text-3xl {
-  font-size: 2rem !important; /* Name */
-}
-
-#profile .text-sm {
-  font-size: 1.1rem !important; /* Title */
-}
-
-@media (min-width: 768px) {
-  .wider-publications-wrapper .max-w-prose {
-    max-width: 1200px !important;
-  }
-
-  .wider-publications-wrapper {
-    font-size: 1.1rem;
-    line-height: 1.75;
-  }
-}

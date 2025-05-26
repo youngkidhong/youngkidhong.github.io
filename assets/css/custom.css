@@ -21,7 +21,7 @@ html {
   line-height: inherit !important;
 }
 
-.navbar .color-mode-toggle,
-.navbar .mode-toggle {
+/* Remove the last nav item, which is the light/dark mode toggle */
+nav > .ml-auto.flex.items-center > div:last-child {
   display: none !important;
 }

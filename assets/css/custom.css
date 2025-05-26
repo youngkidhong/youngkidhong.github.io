@@ -45,3 +45,12 @@ footer .powered-by {
   margin-top: 1rem;
 }
 
+#news {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.page-body {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}

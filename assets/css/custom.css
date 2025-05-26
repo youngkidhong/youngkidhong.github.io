@@ -35,6 +35,12 @@ footer .powered-by {
   display: none !important;
 }
 
-#site-footer {
-  background-color: #cab379 !important;
+.custom-footer {
+  background-color: #cab379;
+  padding: 1rem 0;
+  text-align: center;
+  color: black;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-top: 3rem;
 }

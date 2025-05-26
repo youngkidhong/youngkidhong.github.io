@@ -12,7 +12,7 @@ html {
 }
 
 .wider-publications-wrapper {
-  font-size: .7rem !important;       /* lock base font size */
+  font-size: 1rem !important;       /* lock base font size */
   line-height: 1 !important;      /* lock line height */
 }
 

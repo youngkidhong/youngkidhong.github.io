@@ -70,7 +70,7 @@ sections:
   - block: markdown
     id: news
     content:
-      title: Recent news
+      title: Recent News
       text: |
         <div class="publication-paragraphs">
       
@@ -87,10 +87,4 @@ sections:
       css_class: wider-publications-wrapper
       background:
         color: White
-  - block: cta-card
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
----
+

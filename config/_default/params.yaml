@@ -61,6 +61,5 @@ features:
 
 custom_css: css/custom.css
 
-inject:
-  head:
-    - <link rel="stylesheet" href="/css/scroll.css">
+appearance:
+  show_dark_mode: false

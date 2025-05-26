@@ -30,3 +30,7 @@ nav > .ml-auto.flex.items-center > div:last-child {
 #site-header {
   background-color: #cab379 !important;
 }
+
+footer .powered-by {
+  display: none !important;
+}

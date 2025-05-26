@@ -61,6 +61,3 @@ features:
     enable: false
 
 custom_css: css/custom.css
-
-appearance:
-  show_dark_mode: false

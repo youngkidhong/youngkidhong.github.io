@@ -35,8 +35,6 @@ footer .powered-by {
   display: none !important;
 }
 
-#profile .avatar-wrapper img {
-  width: 200px !important;
-  height: 200px !important;
-  margin-bottom: 1rem;
+#site-footer {
+  background-color: #cab379 !important;
 }

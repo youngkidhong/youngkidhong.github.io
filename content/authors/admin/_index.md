@@ -35,6 +35,7 @@ interests:
   - Social Cognition
   - Person Perception
   - Cognitive Neuroscience
+  - Machine Learning
 
 education:
   - area: Postdoctoral training

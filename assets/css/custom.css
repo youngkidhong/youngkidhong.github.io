@@ -9,15 +9,9 @@ html {
   margin-bottom: 3rem;
 }
 
-.wider-publications {
-  max-width: 2000px; 
-  margin-left: auto;
-  margin-right: auto; 
-
-}
-
-.wider-block {
-  max-width: 2000px !important;
-  margin-left: auto;
-  margin-right: auto;
+.wider-publications-wrapper {
+  width: 100%;
+  max-width: none !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }

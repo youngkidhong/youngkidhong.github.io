@@ -64,7 +64,7 @@ sections:
 
         </div>
     design:
-      css_class: light wider-block
+      css_class: light wider-publications-wrapper
       background:
        color: WhiteSmoke
   - block: markdown

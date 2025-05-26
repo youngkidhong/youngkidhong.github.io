@@ -37,10 +37,11 @@ footer .powered-by {
 
 .custom-footer {
   background-color: #cab379;
-  padding: 1rem 0;
+  padding: 1.5rem 0;
   text-align: center;
   color: black;
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 500;
-  margin-top: 3rem;
+  margin-top: 1rem;
 }
+

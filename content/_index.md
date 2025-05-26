@@ -87,4 +87,4 @@ sections:
       css_class: wider-publications-wrapper
       background:
         color: White
-
+---

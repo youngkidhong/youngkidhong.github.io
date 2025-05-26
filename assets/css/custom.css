@@ -3,15 +3,9 @@ html {
 }
 
 .publication-paragraphs p {
-  max-width: 2000px; 
-  margin-left: auto;
-  margin-right: auto; 
   margin-bottom: 3rem;
 }
 
-.wider-publications-wrapper {
-  width: 100%;
-  max-width: none !important;
-  padding-left: 2rem;
-  padding-right: 2rem;
+.wider-publications-wrapper .max-w-prose {
+  max-width: 1200px !important;
 }

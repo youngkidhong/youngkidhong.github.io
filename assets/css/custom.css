@@ -15,7 +15,14 @@ html {
   min-width: 180px !important; /* or try 200px for more space */
 }
 
-/* Target the sidebar using its existing classes */
 .m-w-\[130px\] {
   min-width: 180px !important;
+  width: 180px !important;
+}
+
+@media (min-width: 768px) {
+  .m-w-\[130px\] {
+    min-width: 200px !important;
+    width: 200px !important;
+  }
 }

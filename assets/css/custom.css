@@ -34,3 +34,8 @@ nav > .ml-auto.flex.items-center > div:last-child {
 footer .powered-by {
   display: none !important;
 }
+
+#profile .avatar-wrapper img {
+  width: 250px !important;
+  height: 250px !important;
+}

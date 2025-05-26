@@ -72,6 +72,8 @@ sections:
     content:
       title: Recent news
       text: |
+        <div class="publication-paragraphs">
+      
         **August 15, 2025**: Youngki starts his position as an assistant professor in the Department of Psychology and Neurscience at CU Boulder!
 
         **March 14, 2025**: The paper titled "Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism " was accepted for publication at the Journal of Experimental Psychology: General!
@@ -79,6 +81,7 @@ sections:
         **March 14, 2024**: The paper titled "Psychological effects of anti-Arab politics on American and Arab people’s views of each other" was accepted for publication at PLOS ONE!
 
         **November 28, 2023**: The paper titled "Facial stereotypes of competence (not trustworthiness and dominance) most resemble facial stereotypes of group membership" was accepted for publication at Social Cognition!
+        </div>
 
     design:
       css_class: light

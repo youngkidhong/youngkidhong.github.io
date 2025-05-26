@@ -3,5 +3,8 @@ html {
 }
 
 .publication-paragraphs p {
-  margin-bottom: 5rem; /* Adjust this as needed */
+  max-width: 900px; 
+  margin-left: auto;
+  margin-right: auto; 
+  margin-bottom: 3rem;
 }

@@ -54,3 +54,40 @@ footer .powered-by {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }
+
+/* 1. Scale up the entire left profile column */
+.resume-biography .flex-none {
+  flex: none;
+  width: 280px !important;  /* was ~130px */
+  text-align: center;
+}
+
+/* 2. Make image slightly larger (if desired) */
+#profile .avatar-wrapper img {
+  width: 180px !important;
+  height: 180px !important;
+  margin-bottom: 1rem;
+}
+
+/* 3. Boost font sizes */
+#profile .portrait-title h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+#profile .portrait-title h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+#profile .portrait-title + div {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+/* 4. Center everything in the left column */
+#profile {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}

@@ -9,3 +9,13 @@ html {
 .wider-publications-wrapper .max-w-prose {
   max-width: 1200px !important;
 }
+
+/* Make the sidebar/profile card wider */
+.sidebar-wider {
+  min-width: 180px !important; /* or try 200px for more space */
+}
+
+/* Target the sidebar using its existing classes */
+.m-w-\[130px\] {
+  min-width: 180px !important;
+}

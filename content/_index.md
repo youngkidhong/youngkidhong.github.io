@@ -84,14 +84,9 @@ sections:
         </div>
 
     design:
-      css_class: light
+      css_class: wider-publications-wrapper
       background:
         color: White
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: cta-card
     design:
       card:

@@ -38,6 +38,8 @@ sections:
       text: |
         <div class="publication-paragraphs">
 
+        **Hong, Y.**, & Ratner, K. G. (in press). The self as a representational base: My sense of “me” shapes what I think “us” looks like. *Self and Identity*. 
+
         **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism. *Journal of Experimental Psychology: General*. [[pdf](uploads/jepg.pdf)]
 
         **Hong, Y.**, & Freeman, J. B. (2024). Shifts in facial impression structures across group boundaries. *Social Psychological and Personality Science, 15*(6), 619-629. [[pdf](uploads/spps.pdf)]
@@ -74,13 +76,13 @@ sections:
       text: |
         <div class="publication-paragraphs">
       
-        **August 15, 2025**: Youngki starts his position as an assistant professor in the Department of Psychology and Neurscience at CU Boulder!
+        **August 26, 2025**: The paper titled "The self as a representational base: My sense of “me” shapes what I think “us” looks like" was accepted for publication at Self and Identity!
+
+        **August 15, 2025**: Youngki started his position as an assistant professor in the Department of Psychology and Neurscience at CU Boulder!
 
         **March 14, 2025**: The paper titled "Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism" was accepted for publication at the Journal of Experimental Psychology: General!
 
-        **March 14, 2024**: The paper titled "Psychological effects of anti-Arab politics on American and Arab people’s views of each other" was accepted for publication at PLOS ONE!
 
-        **November 28, 2023**: The paper titled "Facial stereotypes of competence (not trustworthiness and dominance) most resemble facial stereotypes of group membership" was accepted for publication at Social Cognition!
         </div>
 
     design:

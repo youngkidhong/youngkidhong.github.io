@@ -38,7 +38,7 @@ sections:
       text: |
         <div class="publication-paragraphs">
 
-        **Hong, Y.**, & Ratner, K. G. (in press). The self as a representational base: My sense of “me” shapes what I think “us” looks like. *Self and Identity*. 
+        **Hong, Y.**, & Ratner, K. G. (in press). The self as a representational base: My sense of 'me' shapes what I think 'us' looks like. *Self and Identity*. [[pdf](uploads/PSAI.pdf)]
 
         **Hong, Y.**, Auten, A. R., & Ratner, K. G. (in press). Group Bouba-Kiki effects: The interplay of social categorization, competition, and sound symbolism. *Journal of Experimental Psychology: General*. [[pdf](uploads/jepg.pdf)]
 
@@ -76,7 +76,7 @@ sections:
       text: |
         <div class="publication-paragraphs">
       
-        **August 26, 2025**: The paper titled "The self as a representational base: My sense of “me” shapes what I think “us” looks like" was accepted for publication at Self and Identity!
+        **August 26, 2025**: The paper titled "The self as a representational base: My sense of 'me' shapes what I think 'us' looks like" was accepted for publication at Self and Identity!
 
         **August 15, 2025**: Youngki started his position as an assistant professor in the Department of Psychology and Neurscience at CU Boulder!
 

@@ -33,7 +33,6 @@ profiles:
 
 interests:
   - Social Cognition
-  - Person Perception
   - Cognitive Neuroscience
   - Machine Learning
 

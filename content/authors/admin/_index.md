@@ -50,4 +50,4 @@ education:
 ---
 ## About Me
 
-Youngki Hong, Ph.D., is an Assistant Professor of Psychology and Neuroscience at the University of Colorado Boulder and the director of the Social Vision & Mind Lab. His research examines how people perceive others and process social information. Integrating theories and methods from social psychology, cognitive neuroscience, and machine learning, his work focuses on three core areas: (1) stereotyping and prejudice, (2) low-level visual processes in person perception, and (3) interventions to reduce bias and discrimination.
+Youngki Hong, Ph.D., is an Assistant Professor of Psychology and Neuroscience at the University of Colorado Boulder and the director of [the Social Vision & Mind Lab](https://www.svmlab.org/). His research examines how people perceive others and process social information. Integrating theories and methods from social psychology, cognitive neuroscience, and machine learning, his work focuses on three core areas: (1) stereotyping and prejudice, (2) interventions to reduce bias and discrimination, and (3) dynamic social perception.
